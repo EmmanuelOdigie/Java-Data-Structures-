@@ -1,2 +1,2 @@
-# Java-Data-Structures-
-Different types of java structures; ArrayList, Hash Set, Hash Maps etc
+# Java-Data-Structures-ArrayList
+Different types of java structures; ArrayList
